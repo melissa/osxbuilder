@@ -1,0 +1,8 @@
+name  'melissa-osxbuilder'
+version '0.0.2'
+summary 'OSX package builder'
+description 'Module to set up an osx builder'
+project_page  'https://github.com/melissaanne/osxbuilder.git'
+license 'Apache 2.0'
+author  'Melissa Stone'
+source  'git@github.com:melissaanne/osxbuilder.git'
